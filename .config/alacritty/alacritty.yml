@@ -1,0 +1,43 @@
+colors:
+  # Default colors
+  primary:
+    background: '0x000000'
+    foreground: '0x18d243'
+
+  # Normal colors
+  normal:
+    black:   '0x000000'
+    red:     '0xa31604'
+    green:   '0x0c6e23'
+    yellow:  '0xc1951a'
+    blue:    '0x425387'
+    magenta: '0x965d98'
+    cyan:    '0x06989a'
+    white:   '0xd3d7cf'
+
+  # Bright colors
+  bright:
+    black:   '0x333533'
+    red:     '0xc60001'
+    green:   '0x27a343'
+    yellow:  '0xd5a30e'
+    blue:    '0x4a5a8d'
+    magenta: '0x893c8c'
+    cyan:    '0x12bccb'
+    white:   '0xeeeeec'
+
+font:
+  bold:
+    family: Hurmit Nerd Font
+  italic:
+    family: Hurmit Nerd Font
+  normal:
+    family: Hurmit Nerd Font
+    style: Regular
+  size: 13
+
+window:
+  opacity: 0.9
+  padding:
+    x: 2
+    y: 2
